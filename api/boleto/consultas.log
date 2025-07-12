@@ -1,0 +1,153 @@
+2025-06-29 02:05:20,582 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5020
+ * Running on http://100.66.0.2:5020
+2025-06-29 02:05:20,582 - [33mPress CTRL+C to quit[0m
+2025-06-29 02:07:13,666 - 127.0.0.1 - - [29/Jun/2025 02:07:13] "[33mGET /backend/api/2/consultarboleto?dni=49053983&cuil=27490539838&tipo_documento=F&fecha_nacimiento=30/12/2008 HTTP/1.1[0m" 404 -
+2025-06-29 02:07:41,208 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5021
+ * Running on http://100.66.0.2:5021
+2025-06-29 02:07:41,209 - [33mPress CTRL+C to quit[0m
+2025-06-29 02:10:16,681 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5020
+ * Running on http://100.66.0.2:5020
+2025-06-29 02:10:16,682 - [33mPress CTRL+C to quit[0m
+2025-06-29 02:10:42,011 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 02:10:42', 'dni': '49053983', 'cuil': '27490539838', 'tipo_documento': 'F', 'fecha_nacimiento': '30/12/2008', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AADqqk'}
+2025-06-29 02:10:42,015 - 127.0.0.1 - - [29/Jun/2025 02:10:42] "GET /backend/api/2/consultar?dni=49053983&cuil=27490539838&tipo_documento=F&fecha_nacimiento=30/12/2008 HTTP/1.1" 200 -
+2025-06-29 02:14:08,657 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 02:14:08', 'dni': '49053983', 'cuil': '27490539838', 'tipo_documento': 'F', 'fecha_nacimiento': '30/12/2008', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AADqqk'}
+2025-06-29 02:14:08,660 - 127.0.0.1 - - [29/Jun/2025 02:14:08] "GET /backend/api/2/consultar?dni=49053983&cuil=27490539838&tipo_documento=F&fecha_nacimiento=30/12/2008 HTTP/1.1" 200 -
+2025-06-29 02:17:21,126 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 02:17:21', 'dni': '49053983', 'cuil': '27490539838', 'tipo_documento': 'F', 'fecha_nacimiento': '30/12/2008', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AADqqk'}
+2025-06-29 02:17:21,130 - 127.0.0.1 - - [29/Jun/2025 02:17:21] "GET /backend/api/2/consultar?dni=49053983&cuil=27490539838&tipo_documento=F&fecha_nacimiento=30/12/2008 HTTP/1.1" 200 -
+2025-06-29 02:17:52,432 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 02:17:52', 'dni': '49053983', 'cuil': '27490539838', 'tipo_documento': 'F', 'fecha_nacimiento': '30/12/2008', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AADqqk'}
+2025-06-29 02:17:52,435 - 127.0.0.1 - - [29/Jun/2025 02:17:52] "GET /backend/api/2/consultar?dni=49053983&cuil=27490539838&tipo_documento=F&fecha_nacimiento=30/12/2008 HTTP/1.1" 200 -
+2025-06-29 02:18:48,506 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 02:18:48', 'dni': '49666519', 'cuil': '20496665199', 'tipo_documento': 'M', 'fecha_nacimiento': '01/12/2008', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AAACbE'}
+2025-06-29 02:18:48,509 - 127.0.0.1 - - [29/Jun/2025 02:18:48] "GET /backend/api/2/consultar?dni=49666519&cuil=20496665199&tipo_documento=M&fecha_nacimiento=01/12/2008 HTTP/1.1" 200 -
+2025-06-29 02:19:03,190 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 02:19:03', 'dni': '49666519', 'cuil': '20496665198', 'tipo_documento': 'M', 'fecha_nacimiento': '01/12/2008', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AAACbE'}
+2025-06-29 02:19:03,193 - 127.0.0.1 - - [29/Jun/2025 02:19:03] "GET /backend/api/2/consultar?dni=49666519&cuil=20496665198&tipo_documento=M&fecha_nacimiento=01/12/2008 HTTP/1.1" 200 -
+2025-06-29 02:19:16,300 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 02:19:16', 'dni': '49666529', 'cuil': '20496665199', 'tipo_documento': 'F', 'fecha_nacimiento': '01/12/2055', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AADLO0'}
+2025-06-29 02:19:16,303 - 127.0.0.1 - - [29/Jun/2025 02:19:16] "GET /backend/api/2/consultar?dni=49666529&cuil=20496665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1" 200 -
+2025-06-29 02:19:36,967 - 127.0.0.1 - - [29/Jun/2025 02:19:36] "[33mGET /backend/api/2/consultar?dni=49666518&cuil=20496665199&tipo_documento=M&fecha_nacimiento=01/12/2008 HTTP/1.1[0m" 404 -
+2025-06-29 02:19:50,651 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 02:19:50', 'dni': '49666519', 'cuil': '20496665199', 'tipo_documento': 'M', 'fecha_nacimiento': '01/12/2008', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AAACbE'}
+2025-06-29 02:19:50,654 - 127.0.0.1 - - [29/Jun/2025 02:19:50] "GET /backend/api/2/consultar?dni=49666519&cuil=20496665199&tipo_documento=M&fecha_nacimiento=01/12/2008 HTTP/1.1" 200 -
+2025-06-29 02:20:15,168 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 02:20:15', 'dni': '49666529', 'cuil': '20296665199', 'tipo_documento': 'F', 'fecha_nacimiento': '01/12/2055', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AADLO0'}
+2025-06-29 02:20:15,171 - 127.0.0.1 - - [29/Jun/2025 02:20:15] "GET /backend/api/2/consultar?dni=49666529&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1" 200 -
+2025-06-29 02:20:31,016 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 02:20:31', 'dni': '49053983', 'cuil': '20296665199', 'tipo_documento': 'F', 'fecha_nacimiento': '01/12/2055', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AADqqk'}
+2025-06-29 02:20:31,019 - 127.0.0.1 - - [29/Jun/2025 02:20:31] "GET /backend/api/2/consultar?dni=49053983&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1" 200 -
+2025-06-29 02:24:35,629 - 127.0.0.1 - - [29/Jun/2025 02:24:35] "[33mGET /backend/api/2/consultarboleto?dni=49053983&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 02:25:11,271 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 02:25:11', 'dni': '49053983', 'cuil': '20296665199', 'tipo_documento': 'F', 'fecha_nacimiento': '01/12/2055', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AADqqk'}
+2025-06-29 02:25:11,275 - 127.0.0.1 - - [29/Jun/2025 02:25:11] "GET /backend/api/2/consultar?dni=49053983&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1" 200 -
+2025-06-29 02:26:36,599 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 02:26:36', 'dni': '49053983', 'cuil': '20296665199', 'tipo_documento': 'F', 'fecha_nacimiento': '01/12/2055', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AADqqk'}
+2025-06-29 02:26:36,603 - 127.0.0.1 - - [29/Jun/2025 02:26:36] "GET /backend/api/2/consultar?dni=49053983&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1" 200 -
+2025-06-29 02:28:03,194 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 02:28:03', 'dni': '49053983', 'cuil': '20296665199', 'tipo_documento': 'F', 'fecha_nacimiento': '01/12/2055', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AADqqk'}
+2025-06-29 02:28:03,198 - 127.0.0.1 - - [29/Jun/2025 02:28:03] "GET /backend/api/2/consultar?dni=49053983&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1" 200 -
+2025-06-29 02:28:30,060 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 02:28:30', 'dni': '49666519', 'cuil': '20296665199', 'tipo_documento': 'F', 'fecha_nacimiento': '01/12/2055', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AAACbE'}
+2025-06-29 02:28:30,063 - 127.0.0.1 - - [29/Jun/2025 02:28:30] "GET /backend/api/2/consultar?dni=49666519&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1" 200 -
+2025-06-29 02:28:45,006 - 127.0.0.1 - - [29/Jun/2025 02:28:45] "[33mGET /backend/api/2/consultar?dni=49646434&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 02:28:57,411 - 127.0.0.1 - - [29/Jun/2025 02:28:57] "[33mGET /backend/api/2/consultar?dni=49646464&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 02:29:03,628 - 127.0.0.1 - - [29/Jun/2025 02:29:03] "[33mGET /backend/api/2/consultar?dni=49646464&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 02:30:58,885 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 02:30:58', 'dni': '49666519', 'cuil': '20296665199', 'tipo_documento': 'F', 'fecha_nacimiento': '01/12/2055', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AAACbE'}
+2025-06-29 02:30:58,888 - 127.0.0.1 - - [29/Jun/2025 02:30:58] "GET /backend/api/2/consultar?dni=49666519&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1" 200 -
+2025-06-29 02:31:06,812 - 127.0.0.1 - - [29/Jun/2025 02:31:06] "[33mGET /backend/api/2/consultar?dni=49665345&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 02:32:51,447 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5020
+ * Running on http://100.66.0.2:5020
+2025-06-29 02:32:51,448 - [33mPress CTRL+C to quit[0m
+2025-06-29 02:33:33,216 - 127.0.0.1 - - [29/Jun/2025 02:33:33] "[33mGET /backend/api/2/consultar?dni=49665345&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 02:35:21,184 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 02:35:21', 'dni': '48184248', 'cuil': '20296665199', 'tipo_documento': 'F', 'fecha_nacimiento': '01/12/2055', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AADUME'}
+2025-06-29 02:35:21,188 - 127.0.0.1 - - [29/Jun/2025 02:35:21] "GET /backend/api/2/consultar?dni=48184248&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1" 200 -
+2025-06-29 02:37:01,399 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 02:37:01', 'dni': '48184248', 'cuil': '20296665199', 'tipo_documento': 'F', 'fecha_nacimiento': '01/12/2055', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AADUME'}
+2025-06-29 02:37:01,403 - 127.0.0.1 - - [29/Jun/2025 02:37:01] "GET /backend/api/2/consultar?dni=48184248&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1" 200 -
+2025-06-29 02:39:10,744 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 02:39:10', 'dni': '48184248', 'cuil': '20296665199', 'tipo_documento': 'F', 'fecha_nacimiento': '01/12/2055', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AADUME'}
+2025-06-29 02:39:10,747 - 127.0.0.1 - - [29/Jun/2025 02:39:10] "GET /backend/api/2/consultar?dni=48184248&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1" 200 -
+2025-06-29 02:39:31,786 - 127.0.0.1 - - [29/Jun/2025 02:39:31] "[33mGET /backend/api/2/consultar?dni=50761392&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 02:39:40,007 - 127.0.0.1 - - [29/Jun/2025 02:39:40] "[33mGET /backend/api/2/consultar?dni=52919884&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 02:39:48,691 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 02:39:48', 'dni': '54062819', 'cuil': '20296665199', 'tipo_documento': 'F', 'fecha_nacimiento': '01/12/2055', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AAACbE'}
+2025-06-29 02:39:48,694 - 127.0.0.1 - - [29/Jun/2025 02:39:48] "GET /backend/api/2/consultar?dni=54062819&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1" 200 -
+2025-06-29 02:39:53,404 - 127.0.0.1 - - [29/Jun/2025 02:39:53] "[33mGET /backend/api/2/consultar?dni=50702964&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 02:40:38,979 - 127.0.0.1 - - [29/Jun/2025 02:40:38] "[33mGET /backend/api/2/consultar?dni=47555478&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 02:40:47,280 - 127.0.0.1 - - [29/Jun/2025 02:40:47] "[33mGET /backend/api/2/consultar?dni=47952322&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 02:40:52,203 - 127.0.0.1 - - [29/Jun/2025 02:40:52] "[33mGET /backend/api/2/consultar?dni=47788424&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 02:40:57,970 - 127.0.0.1 - - [29/Jun/2025 02:40:57] "[33mGET /backend/api/2/consultar?dni=47187557&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 02:41:04,184 - 127.0.0.1 - - [29/Jun/2025 02:41:04] "[33mGET /backend/api/2/consultar?dni=48100915&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 02:41:11,645 - 127.0.0.1 - - [29/Jun/2025 02:41:11] "[33mGET /backend/api/2/consultar?dni=48060622&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 02:41:18,798 - 127.0.0.1 - - [29/Jun/2025 02:41:18] "[33mGET /backend/api/2/consultar?dni=47737918&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 02:41:27,135 - 127.0.0.1 - - [29/Jun/2025 02:41:27] "[33mGET /backend/api/2/consultar?dni=50724115&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 02:41:35,381 - 127.0.0.1 - - [29/Jun/2025 02:41:35] "[33mGET /backend/api/2/consultar?dni=47697794&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 02:41:39,830 - 127.0.0.1 - - [29/Jun/2025 02:41:39] "[33mGET /backend/api/2/consultar?dni=47510744&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 02:41:55,110 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 02:41:55', 'dni': '47389758', 'cuil': '20296665199', 'tipo_documento': 'F', 'fecha_nacimiento': '01/12/2055', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AAACbE'}
+2025-06-29 02:41:55,114 - 127.0.0.1 - - [29/Jun/2025 02:41:55] "GET /backend/api/2/consultar?dni=47389758&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1" 200 -
+2025-06-29 02:42:12,380 - 127.0.0.1 - - [29/Jun/2025 02:42:12] "[33mGET /backend/api/2/consultar?dni=48103767&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 02:42:22,936 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 02:42:22', 'dni': '47692705', 'cuil': '20296665199', 'tipo_documento': 'F', 'fecha_nacimiento': '01/12/2055', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AAEAAE'}
+2025-06-29 02:42:22,939 - 127.0.0.1 - - [29/Jun/2025 02:42:22] "GET /backend/api/2/consultar?dni=47692705&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1" 200 -
+2025-06-29 02:46:31,363 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 02:46:31', 'dni': '47692705', 'cuil': '20296665199', 'tipo_documento': 'F', 'fecha_nacimiento': '01/12/2055', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AAEAAE'}
+2025-06-29 02:46:31,367 - 127.0.0.1 - - [29/Jun/2025 02:46:31] "GET /backend/api/2/consultar?dni=47692705&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1" 200 -
+2025-06-29 02:46:57,637 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 02:46:57', 'dni': '47692705', 'cuil': '20296665199', 'tipo_documento': 'F', 'fecha_nacimiento': '01/12/2055', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AAEAAE'}
+2025-06-29 02:46:57,641 - 127.0.0.1 - - [29/Jun/2025 02:46:57] "GET /backend/api/2/consultar?dni=47692705&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1" 200 -
+2025-06-29 02:58:09,126 - 127.0.0.1 - - [29/Jun/2025 02:58:09] "[33mGET /backend/api/2/consultar?dni=31440628&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 02:58:23,345 - 127.0.0.1 - - [29/Jun/2025 02:58:23] "[33mGET /backend/api/2/consultar?dni=24961164&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 03:01:20,387 - 127.0.0.1 - - [29/Jun/2025 03:01:20] "[33mGET /backend/api/2/consultar?dni=26472657&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 04:08:27,785 - 127.0.0.1 - - [29/Jun/2025 04:08:27] "[33mGET /backend/api/2/consultar?dni=45892738&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 04:08:50,550 - 127.0.0.1 - - [29/Jun/2025 04:08:50] "[33mGET /backend/api/2/consultar?dni=46728938&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 04:11:02,211 - 127.0.0.1 - - [29/Jun/2025 04:11:02] "[33mGET /backend/api/2/consultar?dni=32127767&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 06:30:13,400 - 127.0.0.1 - - [29/Jun/2025 06:30:13] "[33mGET /backend/api/2/consultar?dni=50599149&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 06:40:06,458 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 06:40:06', 'dni': '47692705', 'cuil': '20296665199', 'tipo_documento': 'F', 'fecha_nacimiento': '01/12/2055', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AAEAAE'}
+2025-06-29 06:40:06,462 - 127.0.0.1 - - [29/Jun/2025 06:40:06] "GET /backend/api/2/consultar?dni=47692705&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1" 200 -
+2025-06-29 07:17:39,904 - 127.0.0.1 - - [29/Jun/2025 07:17:39] "[33mGET /backend/api/2/consultar?dni=25203898&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 07:20:24,857 - 127.0.0.1 - - [29/Jun/2025 07:20:24] "[33mGET /backend/api/2/consultar?dni=47091521&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 07:49:39,679 - 127.0.0.1 - - [29/Jun/2025 07:49:39] "[33mGET /backend/api/2/consultar?dni=37807727&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 08:06:21,919 - 127.0.0.1 - - [29/Jun/2025 08:06:21] "[33mGET /backend/api/2/consultar?dni=37807727&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 08:06:29,160 - 127.0.0.1 - - [29/Jun/2025 08:06:29] "[33mGET /backend/api/2/consultar?dni=44518022&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 08:06:35,947 - 127.0.0.1 - - [29/Jun/2025 08:06:35] "[33mGET /backend/api/2/consultar?dni=49273117&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 08:06:45,524 - 127.0.0.1 - - [29/Jun/2025 08:06:45] "[33mGET /backend/api/2/consultar?dni=49273922&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 08:06:56,270 - 127.0.0.1 - - [29/Jun/2025 08:06:56] "[33mGET /backend/api/2/consultar?dni=49273929&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 08:07:07,232 - 127.0.0.1 - - [29/Jun/2025 08:07:07] "[33mGET /backend/api/2/consultar?dni=47386119&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 08:07:16,772 - 127.0.0.1 - - [29/Jun/2025 08:07:16] "[33mGET /backend/api/2/consultar?dni=47386152&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 08:35:17,900 - 127.0.0.1 - - [29/Jun/2025 08:35:17] "[33mGET /backend/api/2/consultar?dni=26658659&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 09:21:35,252 - 127.0.0.1 - - [29/Jun/2025 09:21:35] "[33mGET /backend/api/2/consultar?dni=49008855&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 09:21:59,601 - 127.0.0.1 - - [29/Jun/2025 09:21:59] "[33mGET /backend/api/2/consultar?dni=95112995&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 09:51:07,142 - 127.0.0.1 - - [29/Jun/2025 09:51:07] "[33mGET /backend/api/2/consultar?dni=48160370&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 10:06:10,743 - 127.0.0.1 - - [29/Jun/2025 10:06:10] "[33mGET /backend/api/2/consultar?dni=42851812&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 10:06:33,166 - 127.0.0.1 - - [29/Jun/2025 10:06:33] "[33mGET /backend/api/2/consultar?dni=28358560&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 10:07:00,468 - 127.0.0.1 - - [29/Jun/2025 10:07:00] "[33mGET /backend/api/2/consultar?dni=14194339&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 10:07:25,714 - 127.0.0.1 - - [29/Jun/2025 10:07:25] "[33mGET /backend/api/2/consultar?dni=16477323&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 10:31:48,909 - 127.0.0.1 - - [29/Jun/2025 10:31:48] "[33mGET /backend/api/2/consultar?dni=33051483&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 11:03:58,620 - 127.0.0.1 - - [29/Jun/2025 11:03:58] "[33mGET /backend/api/2/consultar?dni=18293063&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 11:06:48,188 - 127.0.0.1 - - [29/Jun/2025 11:06:48] "[33mGET /backend/api/2/consultar?dni=18293063&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 11:34:16,194 - 127.0.0.1 - - [29/Jun/2025 11:34:16] "[33mGET /backend/api/2/consultar?dni=35656364&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 11:37:21,848 - 127.0.0.1 - - [29/Jun/2025 11:37:21] "[33mGET /backend/api/2/consultar?dni=50288026&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 12:18:10,617 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 12:18:10', 'dni': '49053983', 'cuil': '20296665199', 'tipo_documento': 'F', 'fecha_nacimiento': '01/12/2055', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AADqqk'}
+2025-06-29 12:18:10,622 - 127.0.0.1 - - [29/Jun/2025 12:18:10] "GET /backend/api/2/consultar?dni=49053983&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1" 200 -
+2025-06-29 12:52:20,258 - 127.0.0.1 - - [29/Jun/2025 12:52:20] "[33mGET /backend/api/2/consultar?dni=23940465&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 13:04:04,538 - 127.0.0.1 - - [29/Jun/2025 13:04:04] "[33mGET /backend/api/2/consultar?dni=34343035&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 13:18:03,833 - 127.0.0.1 - - [29/Jun/2025 13:18:03] "[33mGET /backend/api/2/consultar?dni=48044175&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 13:24:34,369 - 127.0.0.1 - - [29/Jun/2025 13:24:34] "[33mGET /backend/api/2/consultar?dni=45576155&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 13:55:47,874 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 13:55:47', 'dni': '49180407', 'cuil': '20296665199', 'tipo_documento': 'F', 'fecha_nacimiento': '01/12/2055', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AADP1k'}
+2025-06-29 13:55:47,878 - 127.0.0.1 - - [29/Jun/2025 13:55:47] "GET /backend/api/2/consultar?dni=49180407&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1" 200 -
+2025-06-29 13:56:41,987 - 127.0.0.1 - - [29/Jun/2025 13:56:41] "[33mGET /backend/api/2/consultar?dni=49310989&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 14:03:22,065 - 127.0.0.1 - - [29/Jun/2025 14:03:22] "[33mGET /backend/api/2/consultar?dni=45173909&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 14:03:41,907 - 127.0.0.1 - - [29/Jun/2025 14:03:41] "[33mGET /backend/api/2/consultar?dni=44937677&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 14:09:39,661 - 127.0.0.1 - - [29/Jun/2025 14:09:39] "[33mGET /backend/api/2/consultar?dni=05084598&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 14:22:05,783 - 127.0.0.1 - - [29/Jun/2025 14:22:05] "[33mGET /backend/api/2/consultar?dni=5879335&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 14:30:19,663 - 127.0.0.1 - - [29/Jun/2025 14:30:19] "[33mGET /backend/api/2/consultar?dni=05084598&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 14:40:15,888 - 127.0.0.1 - - [29/Jun/2025 14:40:15] "[33mGET /backend/api/2/consultar?dni=24169927&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 15:11:04,125 - 127.0.0.1 - - [29/Jun/2025 15:11:04] "[33mGET /backend/api/2/consultar?dni=10844070&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 15:16:57,207 - 127.0.0.1 - - [29/Jun/2025 15:16:57] "[33mGET /backend/api/2/consultar?dni=26440390&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 15:30:55,222 - 127.0.0.1 - - [29/Jun/2025 15:30:55] "[33mGET /backend/api/2/consultar?dni=49167237&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 15:31:40,753 - 127.0.0.1 - - [29/Jun/2025 15:31:40] "[33mGET /backend/api/2/consultar?dni=50978734&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 16:41:42,140 - 127.0.0.1 - - [29/Jun/2025 16:41:42] "[33mGET /backend/api/2/consultar?dni=22147821&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 17:15:18,961 - 127.0.0.1 - - [29/Jun/2025 17:15:18] "[33mGET /backend/api/2/consultar?dni=48317663&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 17:37:05,725 - 127.0.0.1 - - [29/Jun/2025 17:37:05] "[33mGET /backend/api/2/consultar?dni=05084598&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 18:13:29,307 - 127.0.0.1 - - [29/Jun/2025 18:13:29] "[33mGET /backend/api/2/consultar?dni=46011929&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 19:30:30,936 - 127.0.0.1 - - [29/Jun/2025 19:30:30] "[33mGET /backend/api/2/consultar?dni=43738980&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 19:50:32,699 - 127.0.0.1 - - [29/Jun/2025 19:50:32] "[33mGET /backend/api/2/consultar?dni=22074801&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 19:50:52,528 - 127.0.0.1 - - [29/Jun/2025 19:50:52] "[33mGET /backend/api/2/consultar?dni=22074801&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 20:19:21,266 - 127.0.0.1 - - [29/Jun/2025 20:19:21] "[33mGET /backend/api/2/consultar?dni=11849746&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 20:30:07,345 - 127.0.0.1 - - [29/Jun/2025 20:30:07] "[33mGET /backend/api/2/consultar?dni=47975966&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 21:02:20,807 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 21:02:20', 'dni': '49666529', 'cuil': '20296665199', 'tipo_documento': 'F', 'fecha_nacimiento': '01/12/2055', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AADLO0'}
+2025-06-29 21:02:20,812 - 127.0.0.1 - - [29/Jun/2025 21:02:20] "GET /backend/api/2/consultar?dni=49666529&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1" 200 -
+2025-06-29 21:23:17,103 - 127.0.0.1 - - [29/Jun/2025 21:23:17] "[33mGET /backend/api/2/consultar?dni=49516697&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1[0m" 404 -
+2025-06-29 21:26:47,453 - Consulta realizada: {'ip': '127.0.0.1', 'hora': '2025-06-29 21:26:47', 'dni': '49053983', 'cuil': '20296665199', 'tipo_documento': 'F', 'fecha_nacimiento': '01/12/2055', 'response': 'iVBORw0KGgoAAAANSUhEUgAAAMUAAADtCAIAAACApSb8AADqqk'}
+2025-06-29 21:26:47,457 - 127.0.0.1 - - [29/Jun/2025 21:26:47] "GET /backend/api/2/consultar?dni=49053983&cuil=20296665199&tipo_documento=F&fecha_nacimiento=01/12/2055 HTTP/1.1" 200 -
